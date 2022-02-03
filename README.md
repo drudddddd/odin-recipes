@@ -2,8 +2,8 @@
 
 Hello world!
 
-This is my first project for The Odin Project!
+This is my first website for The Odin Project!
 
-In this project, I will make a website for recipes from Todd Howard's favorite game The Elder Scroll's V: Skyrim.
+In this project, I will make a website for recipes from Todd Howard's The Elder Scroll's V: Skyrim.
 
-Nothing too fancy, but hopefully you will enjoy :)
+Nothing too fancy, only using basic html, but hopefully you will find it entertaining.
